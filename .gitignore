@@ -1,0 +1,9 @@
+# IDEs
+.idea/
+
+# Roon
+config.json
+
+# Node
+node_modules/
+dist/

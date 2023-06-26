@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
+  "dependencies": {
+    "@xencelabs-quick-keys/node": "^0.4.0",
+    "roon-kit": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
